@@ -12,6 +12,7 @@ header{
   text-align: right;
   font-family: 'Lato', sans-serif;
 
+
 }
 
 header a:hover {
@@ -22,7 +23,7 @@ header a:hover {
 nav a {
   padding: 10px;
   text-decoration: none;
-  color: white;
+  color: blue;
 
 }
 
